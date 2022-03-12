@@ -1,0 +1,12 @@
+.div1 {
+  width: 300px;
+  height: 100px;
+  border: 10px solid rgb(135, 135, 235);
+}
+
+.div2 {
+  width: 300px;
+  height: 100px;  
+  padding: 100px;
+  border: 7px solid red;
+}
